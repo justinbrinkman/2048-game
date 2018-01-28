@@ -1,2 +1,2 @@
 # 2048-game
-Remake of classic game 2048
+Remake of the classic game 2048
