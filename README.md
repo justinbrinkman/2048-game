@@ -1,6 +1,6 @@
 # 2048-game
 
-![Screenshot](2048-game/2048_screenshot.png)
+![Screenshot](https://github.com/justinbrinkman/2048-game/blob/master/2048_screenshot.PNG)
 
 Remake of the classic game 2048. Use arrow keys to rack up points.
 
